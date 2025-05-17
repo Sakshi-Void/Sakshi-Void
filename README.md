@@ -1,12 +1,5 @@
 <p align="center">
-  <svg width="100%" height="60">
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-      font-size="28" font-family="Segoe UI, sans-serif"
-      fill="none" stroke="#1E90FF" stroke-width="1" stroke-dasharray="6,3">
-      Hey there, Sakshi this side!
-    </text>
-  </svg>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe%20UI&size=28&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=500&lines=Hey+there%2C+Sakshi+this+side!+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
 
 I'm a passionate *Frontend Developer*, a **Cloud Computing Enthusiast**, and a curious **Backend Explorer**.  
@@ -61,5 +54,3 @@ Got an exciting project, collaboration idea, or just want to say hi?
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/Sakshi002)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sakshi-singh-ds/)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhsakshi0430@gmail.com)
-
----
