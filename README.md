@@ -4,7 +4,7 @@
 
 ---
 
-I'm a passionate **Frontend Developer**, a **Cloud Computing Enthusiast**, and a curious **Backend Explorer**.  
+I'm a passionate **AI Integrated-Frontend Developer**, a **Cloud Computing Enthusiast**, and a curious **Backend Explorer**.  
 I specialize in crafting beautiful, responsive web interfaces using **React**, **TailwindCSS**, and **Next.js**.  
 Currently diving into cloud platforms and backend fundamentals to become a well-rounded **Full-Stack Developer**!
 
