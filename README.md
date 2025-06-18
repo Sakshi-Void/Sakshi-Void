@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=28&duration=3000&pause=1000&color=FF69B4,FFB6C1&center=true&vCenter=true&width=700&lines=Hey-there---Sakshi-this-side!&repeat=true" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=830&lines=Hey---there---Sakshi---this---side!&repeat=true" alt="Typing SVG" />
 </p>
+
 
 
 ---
