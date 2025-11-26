@@ -4,7 +4,7 @@
 
 - I'm a passionate **Cybersecurity Enthusiast & MERN Stack Developer**. 🔐🚀  
 - I explore **Network Security, SOC workflows, Web App Security, Threat Analysis**,  
-  while building secure apps with **MongoDB, Express, React, Node.js**, plus **Next.js & Tailwind**.
+  while building secure, scalable apps using **MongoDB, Express, React, Node.js**, plus **Next.js & Tailwind**.
 
 ---
 
@@ -67,8 +67,8 @@
 
 ## 📫 Reach Out to Me!
 
-Have a question or something interesting to discuss?  
-📧 **singhsakshi0430@gmail.com**
+Have a project idea or just want to say hi?  
+📧 **singhsakshi0430@gmail.com** — Always excited to connect!
 
 ---
 
@@ -76,26 +76,30 @@ Have a question or something interesting to discuss?
 
 <table align="center" cellpadding="5" cellspacing="0">
   <tr>
+
     <td align="center">
       <a href="https://tryhackme.com/p/SakshiVoid" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme" alt="TryHackMe" />
+        <img src="https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
       </a>
     </td>
+
     <td align="center">
       <a href="https://www.linkedin.com/in/sakshi-singh-ds/" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
       </a>
     </td>
+
     <td align="center">
       <a href="mailto:singhsakshi0430@gmail.com" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
       </a>
     </td>
+
   </tr>
 </table>
 
 [![](https://visitcount.itsvg.in/api?id=sakshi-void&icon=5&color=1)](https://visitcount.itsvg.in)
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=sakshi-void&label=Profile%20views&color=0e75b6&style=for-the-badge&color=000000" />
+  <img src="https://komarev.com/ghpvc/?username=sakshi-void&label=Profile%20views&style=for-the-badge&color=000000" />
 </p>
