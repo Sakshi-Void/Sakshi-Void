@@ -1,117 +1,102 @@
-<!-- ✨ Custom Cybersecurity GitHub Profile by Sakshi -->
+<!-- Profile README — Sakshi Singh | Cloud Security & IAM -->
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00F3FF&center=true&vCenter=true&width=600&lines=Hello+There!+I'm+Sakshi+Singh;Cybersecurity+Enthusiast+%7C+Full-Stack+Developer;Breaking+%26+Securing+The+Web+Ethically+%F0%9F%94%90)
-
----
-
-# 🟩 Welcome to My GitHub
-
-> **Learning. Building. Securing.**  
-> A curious mind exploring how systems break — and how to defend them.
-
-### 👩🏻‍💻 What I Do  
-- 🔐 Practicing **Web App Security**, **Network Security**, **SOC & SIEM basics**  
-- 🕵️‍♀️ Performing **recon, scanning, traffic analysis & vulnerability detection**  
-- 🌐 Building secure apps using **MERN + Next.js + Tailwind**  
-- ☁️ Learning **AWS Security**, **Cloud IAM**, **Logging**  
-- 🤝 Always open to cybersecurity collabs, projects & research
+<h1 align="center">Sakshi Singh</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sakshi-void&label=Profile%20Views&color=00ffe1&style=for-the-badge" />
+  <b>Cloud Security · Identity & Access Management · Python Automation</b><br>
+  <sub>Learning by building. Everything here is a work in progress.</sub>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sakshi-singh-ds/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://tryhackme.com/p/SakshiVoid">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white" />
+  </a>
+  <a href="mailto:singhsakshi0430@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-# 📡 Connect With Me  
-<p align="center">
-  <a href="https://tryhackme.com/p/SakshiVoid"><img src="https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/sakshi-singh-ds/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:singhsakshi0430@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
+## About
+
+I'm shifting from web development into cloud security, with a specific focus on **Identity & Access Management (IAM)**.
+
+My background is in Python and full-stack development (MERN/Next.js), but I've been spending most of my time lately on access control, IAM policy design, and cloud security fundamentals. I build small, hands-on projects to learn — not tutorials, actual scenarios with real configurations and writeups.
+
+Right now I'm focused on:
+- Writing and analyzing IAM policies on AWS (least privilege, permission boundaries, role assumptions)
+- Azure Active Directory — RBAC, conditional access, service principals, MFA enforcement
+- Python automation for IAM audits, credential reports, and security checks
+- Reading CloudTrail logs to understand what happened and why
+
+I'm based in Jharkhand, India. Still learning. Documenting everything.
 
 ---
 
-# 🛠 Tech Stack & Tools
+## Current Focus Areas
 
-<table align="center" cellpadding="10" cellspacing="0">
-  <tr>
-
-  <td align="center" width="200">
-    <h4>🖥️ Frontend</h4>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react"><br><br>
-    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs"><br><br>
-    <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss">
-  </td>
-
-  <td align="center" width="200">
-    <h4>🧩 Backend</h4>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js"><br><br>
-    <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express">
-  </td>
-
-  <td align="center" width="200">
-    <h4>☁️ Cloud</h4>
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws"><br><br>
-    <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel"><br><br>
-    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify">
-  </td>
-
-  <td align="center" width="200">
-    <h4>🔐 Cybersecurity</h4>
-    <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux"><br><br>
-    <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite"><br><br>
-    <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark"><br><br>
-    <img src="https://img.shields.io/badge/Nmap-2E8B57?style=flat-square&logo=nmap">
-  </td>
-
-  </tr>
-</table>
+| Area | What I'm working on |
+|---|---|
+| **AWS IAM** | Least-privilege policies, policy analysis, role trust relationships |
+| **Azure AD / Entra ID** | RBAC assignment, conditional access policy design, MFA enforcement |
+| **Python + boto3** | Automating IAM audits, parsing CloudTrail logs, credential report analysis |
+| **CSPM Concepts** | Understanding misconfigurations, remediation workflows |
+| **Compliance** | CIS AWS Benchmark — IAM controls section |
 
 ---
 
-# 📊 GitHub Analytics
+## Projects (Cloud Security)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshi-void&theme=tokyonight&hide_border=true" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakshi-void&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
-</p>
+> Each repo has a real-world scenario, the actual config files/scripts, and a writeup of what I learned.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi-void&layout=compact&theme=tokyonight&hide_border=true">
-</p>
+| # | Project | What it does | Stack |
+|---|---|---|---|
+| 01 | [aws-iam-policy-lab](https://github.com/Sakshi-Void/aws-iam-policy-lab) | Least-privilege IAM policy setup from scratch — simulates a real over-permissioned developer scenario | AWS IAM, JSON |
+| 02 | [iam-policy-analyzer](https://github.com/Sakshi-Void/iam-policy-analyzer) | Python script that parses IAM policy JSON and flags overly permissive rules (wildcards, */*) | Python |
+| 03 | [cloudtrail-log-parser](https://github.com/Sakshi-Void/cloudtrail-log-parser) | Parses CloudTrail logs to surface suspicious API calls and unusual access patterns | Python, AWS CloudTrail |
+| 04 | [s3-misconfiguration-lab](https://github.com/Sakshi-Void/s3-misconfiguration-lab) | Intentional S3 misconfiguration → detection → Python-based remediation | AWS S3, IAM, Python boto3 |
+| 05 | [service-account-auditor](https://github.com/Sakshi-Void/service-account-auditor) | Identifies IAM roles and access keys unused for 90+ days using AWS Credential Reports | Python, boto3 |
+| 06 | [azure-ad-access-lab](https://github.com/Sakshi-Void/azure-ad-access-lab) | Azure AD user/group setup, RBAC role assignment, and MFA enforcement for a simulated org | Azure AD, Entra ID |
 
----
-
-# 🧠 My Cybersecurity Areas
-
-- 🕵️ Web App Security (XSS, CSRF, IDOR, SSRF)
-- 🔍 Recon & Scanning  
-- 📡 Traffic Monitoring (Wireshark)  
-- 🛑 Vulnerability Testing  
-- ⚡ SIEM Basics (Logs, Alerts, Events)  
-- 🛡 Threat Detection & Enumeration  
+*More being added as I build. Links go live when the repo is ready.*
 
 ---
 
-# 🔥 Recent Activity
+## Tools & Platforms
 
-<!-- GitHub Activity Feed -->
-<!-- Replace with actual API-powered or GitHub Action feed later -->
+**Cloud**
+`AWS IAM` `AWS CloudTrail` `AWS S3` `Azure Active Directory` `Microsoft Entra ID` `AWS Config`
 
-- Learning **BurpSuite Advanced**  
-- Practicing **TryHackMe Blue Rooms**  
-- Building a **Secure Login System (MERN)**  
-- Analysing traffic dumps for abnormal patterns  
-- Experimenting with **Auth Hardening & API Security**
+**Languages & Scripting**
+`Python` `boto3` `JSON` `Bash (basics)`
 
----
+**Security Concepts**
+`RBAC` `ABAC` `Least Privilege` `Permission Boundaries` `Service Principals` `Zero Trust` `CSPM` `MFA Enforcement` `Access Review` `CIS Benchmarks`
 
-# 🧩 Fun Fact  
-> Cybersecurity isn’t just about hacking —  
-> It’s about thinking *one step ahead* of the attacker.
+**Other**
+`TryHackMe (Blue Team rooms)` `Linux` `Git`
 
 ---
 
-# 💬 Reach Out Anytime  
-📧 **singhsakshi0430@gmail.com**  
+## Currently Studying
 
+- **AWS Solutions Architect Associate** — building cloud foundations alongside security
+- **CompTIA Security+** — in progress
+- **Microsoft SC-900** — next on the list
+- TryHackMe rooms focused on cloud and IAM scenarios
+
+---
+
+## A Note on the Other Repos
+
+You'll see a few web development projects here (Python chatbots, MERN projects). Those are from before I shifted focus — keeping them because they show how I think and write code, not because they're relevant to IAM.
+
+The cloud security repos are what I'm actively building and maintaining.
+
+---
+
+<sub>📍 Jharkhand, India &nbsp;·&nbsp; Open to cloud security internships and junior IAM roles &nbsp;·&nbsp; singhsakshi0430@gmail.com</sub>
