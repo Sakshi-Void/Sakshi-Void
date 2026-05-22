@@ -43,5 +43,5 @@ Always learning something new.
 ---
 
 <p align="center">
-  📍 India &nbsp;·&nbsp; Open to full-time roles &nbsp;·&nbsp; singhsakshi0430@gmail.com
+  📍 India &nbsp;·&nbsp; singhsakshi0430@gmail.com
 </p>
