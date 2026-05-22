@@ -1,4 +1,4 @@
-<h1 align="center">Sakshi Singh</h1>
+<h1 align="center">Sakshi</h1>
 
 <p align="center">
   <i>Too Curious to Quit. Too Stubborn to Fail.</i>
@@ -21,7 +21,7 @@ I've built across the stack — CRM systems, backend APIs, AI-powered apps, and 
 
 I founded a Udyam-registered digital agency, delivered real client projects, and kept building when things didn't go as planned.
 
-Based in Gurgaon. Open to full-time roles. Always learning something new.
+Always learning something new.
 
 ---
 
@@ -43,5 +43,5 @@ Based in Gurgaon. Open to full-time roles. Always learning something new.
 ---
 
 <p align="center">
-  📍 Gurgaon, India &nbsp;·&nbsp; Open to full-time roles &nbsp;·&nbsp; singhsakshi0435@gmail.com
+  📍 India &nbsp;·&nbsp; Open to full-time roles &nbsp;·&nbsp; singhsakshi0430@gmail.com
 </p>
