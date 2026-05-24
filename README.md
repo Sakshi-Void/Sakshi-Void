@@ -43,7 +43,7 @@ I build across the stack - CRM systems, backend APIs, AI-powered apps, and clien
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sakshi-Void&show_icons=true&hide_title=true&count_private=true&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sakshi-Void&theme=transparent" />
 </p>
 
 ---
