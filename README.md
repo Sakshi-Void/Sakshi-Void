@@ -11,23 +11,23 @@
   <a href="mailto:singhsakshi0435@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://leetcode.com/u/Sakshi002/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ### About
 
-I've built across the stack — CRM systems, backend APIs, AI-powered apps, and client-facing web products.
-
-I founded a Udyam-registered digital agency, delivered real client projects, and kept building when things didn't go as planned.
-
-Always learning something new.
+I build across the stack - CRM systems, backend APIs, AI-powered apps, and client-facing web products. Founded a Udyam-registered digital agency and delivered real projects for real clients.
 
 ---
 
-### What I work with
+### Stack
 
-`Salesforce CRM` `Python` `REST APIs` `SQL` `Node.js` `JavaScript` `TypeScript` `Automations`
+**CRM & Backend:** `Salesforce CRM` `Python` `Node.js` `REST APIs` `SQL`
+**Frontend & Tools:** `JavaScript` `TypeScript` `Automations`
 
 ---
 
@@ -37,11 +37,17 @@ Always learning something new.
 |---|---|
 | [ChefCat-AI](https://github.com/Sakshi-Void/ChefCat-AI) | AI-powered recipe and cooking assistant |
 | [Filmy-Dost](https://github.com/Sakshi-Void/Filmy-Dost) | Movie discovery and recommendation app |
-| [Dskinova](https://github.com/Sakshi-Void/Dskinova) | Client project — skincare brand website |
-| [college-info-assistant](https://github.com/Sakshi-Void/college-info-assistant) | Information assistant for college queries |
+| [Dskinova](https://github.com/Sakshi-Void/Dskinova) | Client project - skincare brand website |
+| [college-info-assistant](https://github.com/Sakshi-Void/college-info-assistant) | Info assistant for college queries |
 
 ---
 
 <p align="center">
-  📍 India &nbsp;·&nbsp; singhsakshi0430@gmail.com
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sakshi-Void&theme=transparent" />
+</p>
+
+---
+
+<p align="center">
+  India &nbsp;·&nbsp; singhsakshi0435@gmail.com
 </p>
