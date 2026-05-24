@@ -17,7 +17,7 @@
 
 ### About
 
-I've built across the stack — CRM systems, backend APIs, AI-powered apps, and client-facing web products.
+I've built across the stack - CRM systems, backend APIs, AI-powered apps, and client-facing web products.
 
 I founded a Udyam-registered digital agency, delivered real client projects, and kept building when things didn't go as planned.
 
@@ -37,11 +37,11 @@ Always learning something new.
 |---|---|
 | [ChefCat-AI](https://github.com/Sakshi-Void/ChefCat-AI) | AI-powered recipe and cooking assistant |
 | [Filmy-Dost](https://github.com/Sakshi-Void/Filmy-Dost) | Movie discovery and recommendation app |
-| [Dskinova](https://github.com/Sakshi-Void/Dskinova) | Client project — skincare brand website |
+| [Dskinova](https://github.com/Sakshi-Void/Dskinova) | Client project - skincare brand website |
 | [college-info-assistant](https://github.com/Sakshi-Void/college-info-assistant) | Information assistant for college queries |
 
 ---
 
 <p align="center">
-  📍 India &nbsp;·&nbsp; singhsakshi0430@gmail.com
+  India &nbsp;·&nbsp; singhsakshi0435@gmail.com
 </p>
