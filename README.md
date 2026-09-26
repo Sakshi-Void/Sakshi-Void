@@ -1,25 +1,38 @@
+<table width="100%">
+<tr>
+<td width="80%">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:FF5C8A,100:C8A2FF&height=220&section=header&text=Welcome%20to%20My%20Profile&fontSize=38&fontColor=FFFFFF&fontAlignY=35&desc=Hi%2C%20I%27m%20Sakshi%20%E2%80%94%20Cloud%20%7C%20Linux%20%7C%20Networking%20%7C%20Python&descAlignY=55&descSize=16&animation=fadeIn" width="100%"/>
+
+</td>
+<td width="20%" align="center">
+
+<img src="https://github.com/user-attachments/assets/e443ab6c-7ccd-4f21-b8a5-3c2a1e083186" width="130"/>
+
+</td>
+</tr>
+</table>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:FF8FAB,100:C8A2FF&height=220&section=header&text=Welcome%20to%20My%20Profile&fontSize=40&fontColor=FFFFFF&fontAlignY=35&desc=Hi%2C%20I%27m%20Sakshi%20%E2%80%94%20Cloud%20%7C%20Linux%20%7C%20Networking%20%7C%20Python&descAlignY=55&descSize=17&animation=fadeIn" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=18&duration=3200&pause=1200&color=FF8FAB&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=Designing+systems%2C+not+just+writing+code;Understanding+what+happens+behind+the+API;Learning+to+build+reliable%2C+scalable+systems;Turning+curiosity+into+engineering+skills" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=18&duration=2800&pause=800&color=FF5C8A&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=70&lines=Designing+systems%2C+not+just+writing+code;Understanding+what+happens+behind+the+API;Learning+to+build+reliable%2C+scalable+systems;Cloud+dreams%2C+Linux+fundamentals;Turning+curiosity+into+clean+code;Soft+skills%2C+sharp+systems" alt="Typing SVG" />
 
 <br/><br/>
 
-<a href="https://github.com/Sakshi-Void"><img src="https://img.shields.io/badge/GitHub-1A1625?style=for-the-badge&logo=github&logoColor=FF8FAB" /></a>
+<a href="https://github.com/Sakshi-Void"><img src="https://img.shields.io/badge/GitHub-1A1625?style=for-the-badge&logo=github&logoColor=FF5C8A" /></a>
 <a href="https://linkedin.com/in/sakshi-singh-ds"><img src="https://img.shields.io/badge/LinkedIn-1A1625?style=for-the-badge&logo=linkedin&logoColor=C8A2FF" /></a>
-<a href="https://leetcode.com/u/Sakshi002/"><img src="https://img.shields.io/badge/LeetCode-1A1625?style=for-the-badge&logo=leetcode&logoColor=FF8FAB" /></a>
+<a href="https://leetcode.com/u/sakshi0437/"><img src="https://img.shields.io/badge/LeetCode-1A1625?style=for-the-badge&logo=leetcode&logoColor=FF5C8A" /></a>
 <a href="mailto:singhsakshi0430@gmail.com"><img src="https://img.shields.io/badge/Email-1A1625?style=for-the-badge&logo=gmail&logoColor=C8A2FF" /></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Sakshi-Void&label=Profile%20Views&color=FF8FAB&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=Sakshi-Void&label=Profile%20Views&color=FF5C8A&style=flat-square"/>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:FF8FAB&height=2&width=100%25"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:FF5C8A&height=2&width=100%25"/>
 
 ### 🌸 About Me
 
@@ -63,7 +76,7 @@ More interested in the systems behind software than in just using it
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:FF8FAB&height=2&width=100%25"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:FF5C8A&height=2&width=100%25"/>
 
 ### 🗺️ Engineering Focus
 
@@ -103,7 +116,7 @@ Long term, I'm working toward reasoning about systems end-to-end — network lay
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:FF8FAB&height=2&width=100%25"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:FF5C8A&height=2&width=100%25"/>
 
 ### 💗 Featured Projects
 
@@ -117,7 +130,7 @@ Fullstack AI assistant — LLM chat, PDF Q&A (RAG), live weather, web search, an
 <br/>
 `React · TypeScript · Tailwind · FastAPI · Groq LLaMA3 · Qdrant`
 <br/><br/>
-<a href="https://github.com/Sakshi-Void/ChefCat-AI"><img src="https://img.shields.io/badge/GitHub-1A1625?style=flat-square&logo=github&logoColor=FF8FAB"/></a>
+<a href="https://github.com/Sakshi-Void/ChefCat-AI"><img src="https://img.shields.io/badge/GitHub-1A1625?style=flat-square&logo=github&logoColor=FF5C8A"/></a>
 <a href="https://chef-cat-ai.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-1A1625?style=flat-square&logo=vercel&logoColor=C8A2FF"/></a>
 
 </td>
@@ -129,7 +142,7 @@ Home decor e-commerce platform with secure Razorpay payment integration.
 <br/>
 `React · Vite · TypeScript · Tailwind · shadcn/ui · Razorpay`
 <br/><br/>
-<a href="https://github.com/Sakshi-Void/Ranchi_Decor"><img src="https://img.shields.io/badge/GitHub-1A1625?style=flat-square&logo=github&logoColor=FF8FAB"/></a>
+<a href="https://github.com/Sakshi-Void/Ranchi_Decor"><img src="https://img.shields.io/badge/GitHub-1A1625?style=flat-square&logo=github&logoColor=FF5C8A"/></a>
 <a href="https://ranchi-decor-two.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-1A1625?style=flat-square&logo=vercel&logoColor=C8A2FF"/></a>
 
 </td>
@@ -143,7 +156,7 @@ Premium skincare website with a secure admin dashboard for content management.
 <br/>
 `React · Vite · Tailwind · Node.js · Express`
 <br/><br/>
-<a href="https://github.com/Sakshi-Void/Dskinova"><img src="https://img.shields.io/badge/GitHub-1A1625?style=flat-square&logo=github&logoColor=FF8FAB"/></a>
+<a href="https://github.com/Sakshi-Void/Dskinova"><img src="https://img.shields.io/badge/GitHub-1A1625?style=flat-square&logo=github&logoColor=FF5C8A"/></a>
 <a href="https://dskinova-mu.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-1A1625?style=flat-square&logo=vercel&logoColor=C8A2FF"/></a>
 
 </td>
@@ -155,7 +168,7 @@ NLP-powered movie recommender using a bag-of-words similarity model.
 <br/>
 `Python · Streamlit · NLP`
 <br/><br/>
-<a href="https://github.com/Sakshi-Void/Filmy-Dost"><img src="https://img.shields.io/badge/GitHub-1A1625?style=flat-square&logo=github&logoColor=FF8FAB"/></a>
+<a href="https://github.com/Sakshi-Void/Filmy-Dost"><img src="https://img.shields.io/badge/GitHub-1A1625?style=flat-square&logo=github&logoColor=FF5C8A"/></a>
 
 </td>
 </tr>
@@ -170,16 +183,16 @@ NLP-powered movie recommender using a bag-of-words similarity model.
 **GitHub**
 
 <p align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sakshi-Void&theme=redical&bg_color=0D1117&color=FF8FAB&line=C8A2FF&point=FFFFFF&hide_border=true&area=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sakshi-Void&theme=redical&bg_color=0D1117&color=FF5C8A&line=C8A2FF&point=FFFFFF&hide_border=true&area=true"/>
 </p>
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sakshi-Void&show_icons=true&hide_title=true&bg_color=0D1117&title_color=C8A2FF&icon_color=FF8FAB&text_color=c9d1d9&border_color=FF8FAB&border_radius=10"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi-Void&layout=compact&hide_title=true&bg_color=0D1117&title_color=C8A2FF&text_color=c9d1d9&border_color=FF8FAB&border_radius=10"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sakshi-Void&show_icons=true&hide_title=true&bg_color=0D1117&title_color=C8A2FF&icon_color=FF5C8A&text_color=c9d1d9&border_color=FF5C8A&border_radius=10"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi-Void&layout=compact&hide_title=true&bg_color=0D1117&title_color=C8A2FF&text_color=c9d1d9&border_color=FF5C8A&border_radius=10"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Sakshi-Void&background=0D1117&border=FF8FAB&ring=FF8FAB&fire=C8A2FF&currStreakLabel=FF8FAB&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&border_radius=10"/>
+<img src="https://streak-stats.demolab.com?user=Sakshi-Void&background=0D1117&border=FF5C8A&ring=FF5C8A&fire=C8A2FF&currStreakLabel=FF5C8A&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&border_radius=10"/>
 </p>
 
 <p align="center">
@@ -189,24 +202,26 @@ NLP-powered movie recommender using a bag-of-words similarity model.
 **LeetCode** *(separate platform, shown alongside GitHub)*
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/Sakshi002?theme=dark&font=Poppins&colors=0d1117,1a1625,c9d1d9,ffffff,FF8FAB,C8A2FF,FF8FAB,C8A2FF"/>
+<b>Stats</b><br/>
+<img src="https://leetcard.jacoblin.cool/sakshi0437?theme=dark&font=Poppins&colors=0d1117,1a1625,c9d1d9,ffffff,FF5C8A,C8A2FF,FF5C8A,C8A2FF"/>
 </p>
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/Sakshi002?ext=heatmap&theme=dark&font=Poppins&colors=0d1117,1a1625,c9d1d9,ffffff,FF8FAB,C8A2FF,FF8FAB,C8A2FF"/>
+<b>Activity Heatmap (last 52 weeks)</b><br/>
+<img src="https://leetcard.jacoblin.cool/sakshi0437?ext=heatmap&theme=dark&font=Poppins&colors=0d1117,1a1625,c9d1d9,ffffff,FF5C8A,C8A2FF,FF5C8A,C8A2FF"/>
 </p>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:FF8FAB&height=2&width=100%25"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:FF5C8A&height=2&width=100%25"/>
 
 <div align="center">
 
 ### 🌷 Let's Connect
 
-<a href="https://github.com/Sakshi-Void"><img src="https://img.shields.io/badge/GitHub-1A1625?style=for-the-badge&logo=github&logoColor=FF8FAB"/></a>
+<a href="https://github.com/Sakshi-Void"><img src="https://img.shields.io/badge/GitHub-1A1625?style=for-the-badge&logo=github&logoColor=FF5C8A"/></a>
 <a href="https://linkedin.com/in/sakshi-singh-ds"><img src="https://img.shields.io/badge/LinkedIn-1A1625?style=for-the-badge&logo=linkedin&logoColor=C8A2FF"/></a>
-<a href="https://leetcode.com/u/Sakshi002/"><img src="https://img.shields.io/badge/LeetCode-1A1625?style=for-the-badge&logo=leetcode&logoColor=FF8FAB"/></a>
+<a href="https://leetcode.com/u/sakshi0437/"><img src="https://img.shields.io/badge/LeetCode-1A1625?style=for-the-badge&logo=leetcode&logoColor=FF5C8A"/></a>
 <a href="mailto:singhsakshi0430@gmail.com"><img src="https://img.shields.io/badge/Email-1A1625?style=for-the-badge&logo=gmail&logoColor=C8A2FF"/></a>
 
 <br/><br/>
@@ -215,4 +230,4 @@ NLP-powered movie recommender using a bag-of-words similarity model.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:C8A2FF,100:FF8FAB&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:C8A2FF,100:FF5C8A&height=100&section=footer"/>
