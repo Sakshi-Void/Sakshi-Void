@@ -11,6 +11,10 @@
 <a href="https://leetcode.com/u/Sakshi002/"><img src="https://img.shields.io/badge/LeetCode-161B22?style=for-the-badge&logo=leetcode&logoColor=00E5FF" /></a>
 <a href="mailto:singhsakshi0430@gmail.com"><img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=A855F7" /></a>
 
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Sakshi-Void&label=Profile%20Views&color=00E5FF&style=flat-square"/>
+
 </div>
 
 <br/>
@@ -31,50 +35,29 @@ More interested in the systems behind software than in just using it
 
 ### ⚙️ Tech Stack
 
-<table width="100%">
-<tr>
-<td width="18%" align="center"><b>☁️ Cloud</b></td>
-<td>
-<img src="https://img.shields.io/badge/AWS-161B22?style=flat-square&logo=amazonaws&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/EC2-161B22?style=flat-square&logo=amazonec2&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/S3-161B22?style=flat-square&logo=amazons3&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/IAM-161B22?style=flat-square&logo=amazonaws&logoColor=A855F7"/>
-<img src="https://img.shields.io/badge/VPC-161B22?style=flat-square&logo=amazonaws&logoColor=A855F7"/>
-</td>
-</tr>
-<tr>
-<td align="center"><b>🐧 Systems</b></td>
-<td>
-<img src="https://img.shields.io/badge/Linux-161B22?style=flat-square&logo=linux&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/Bash-161B22?style=flat-square&logo=gnubash&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/Networking-161B22?style=flat-square&logo=cisco&logoColor=A855F7"/>
-</td>
-</tr>
-<tr>
-<td align="center"><b>🐍 Automation</b></td>
-<td>
-<img src="https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=A855F7"/>
-<img src="https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=00E5FF"/>
-</td>
-</tr>
-<tr>
-<td align="center"><b>🗄️ Backend</b></td>
-<td>
-<img src="https://img.shields.io/badge/SQL-161B22?style=flat-square&logo=postgresql&logoColor=A855F7"/>
-<img src="https://img.shields.io/badge/REST_APIs-161B22?style=flat-square&logo=fastapi&logoColor=00E5FF"/>
-</td>
-</tr>
-<tr>
-<td align="center"><b>🔧 Tools</b></td>
-<td>
-<img src="https://img.shields.io/badge/Git-161B22?style=flat-square&logo=git&logoColor=A855F7"/>
-<img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/Postman-161B22?style=flat-square&logo=postman&logoColor=A855F7"/>
-<img src="https://img.shields.io/badge/VS_Code-161B22?style=flat-square&logo=visualstudiocode&logoColor=00E5FF"/>
-</td>
-</tr>
-</table>
+<div align="center">
+
+**☁️ Cloud**
+<br/>
+<img src="https://skillicons.dev/icons?i=aws" />
+
+**🐧 Systems & Networking**
+<br/>
+<img src="https://skillicons.dev/icons?i=linux,bash" />
+
+**🐍 Programming & Automation**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,js,ts" />
+
+**🗄️ Data / Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,fastapi" />
+
+**🔧 Developer Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+
+</div>
 
 > **Exploring next:** Docker · Kubernetes · Terraform · CI/CD · AWS Lambda — future direction, not current expertise.
 
@@ -174,6 +157,10 @@ Long term, I'm working toward reasoning about systems end-to-end — network lay
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Sakshi-Void&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Sakshi-Void/Sakshi-Void/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </p>
 
 **LeetCode** *(separate platform, shown alongside GitHub)*
