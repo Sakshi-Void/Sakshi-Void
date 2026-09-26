@@ -1,17 +1,17 @@
 <!-- ========================================================= -->
-<!--                        HEADER                             -->
+<!--                         HEADER                            -->
 <!-- ========================================================= -->
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=transparent&fontColor=gradient&text=Hi%2C%20I'm%20Sakshi%20👋&fontSize=42&fontAlignY=50&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00E5FF&text=Hi%2C%20I'm%20Sakshi%20👋&fontSize=42&fontAlignY=50&animation=fadeIn"
     alt="Hi, I'm Sakshi"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=21&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=800&height=45&lines=Designing+systems%2C+not+just+writing+code;Understanding+what+happens+behind+the+API;Cloud+%7C+Linux+%7C+Networking+%7C+Python;Learning+to+build+reliable+and+scalable+systems;Turning+curiosity+into+engineering+skills"
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=21&duration=2800&pause=900&deleteSpeed=45&color=00E5FF&center=true&vCenter=true&width=850&height=45&lines=Designing+systems%2C+not+just+writing+code;Understanding+what+happens+behind+the+API;Cloud+%7C+Linux+%7C+Networking+%7C+Python;Learning+to+build+reliable+and+scalable+systems;Turning+curiosity+into+engineering+skills"
     alt="Typing animation"
   />
 </p>
@@ -30,10 +30,6 @@
 
 ---
 
-<!-- ========================================================= -->
-<!--                       ABOUT ME                            -->
-<!-- ========================================================= -->
-
 ## 🧠 About Me
 
 - ⚙️ Building a strong foundation in **Computer Systems, Linux, Networking & Cloud Computing**
@@ -46,10 +42,6 @@
 - 🚀 Moving from simply using technology to **understanding, building and engineering the systems behind it**
 
 ---
-
-<!-- ========================================================= -->
-<!--                    ENGINEERING STACK                     -->
-<!-- ========================================================= -->
 
 ## ⚙️ Engineering Stack
 
@@ -68,9 +60,9 @@
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TCP%2FIP-1f6feb?style=flat"/>
-  <img src="https://img.shields.io/badge/DNS-1f6feb?style=flat"/>
-  <img src="https://img.shields.io/badge/HTTP%2FHTTPS-1f6feb?style=flat"/>
+  <img src="https://img.shields.io/badge/TCP%2FIP-00E5FF?style=flat"/>
+  <img src="https://img.shields.io/badge/DNS-00E5FF?style=flat"/>
+  <img src="https://img.shields.io/badge/HTTP%2FHTTPS-00E5FF?style=flat"/>
 </p>
 
 ### 🐍 Programming & Automation
@@ -92,10 +84,6 @@
 </p>
 
 ---
-
-<!-- ========================================================= -->
-<!--                 CURRENT ENGINEERING FOCUS                -->
-<!-- ========================================================= -->
 
 ## 🔬 Current Engineering Focus
 
