@@ -1,115 +1,213 @@
-<!-- ========================================================= -->
-<!--                         HEADER                            -->
-<!-- ========================================================= -->
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00E5FF&text=Hi%2C%20I'm%20Sakshi%20👋&fontSize=42&fontAlignY=50&animation=fadeIn"
-    alt="Hi, I'm Sakshi"
-  />
-</p>
+<svg width="720" height="150" viewBox="0 0 720 150" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="neonGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00E5FF"/>
+      <stop offset="100%" stop-color="#A855F7"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=21&duration=2800&pause=900&deleteSpeed=45&color=00E5FF&center=true&vCenter=true&width=850&height=45&lines=Designing+systems%2C+not+just+writing+code;Understanding+what+happens+behind+the+API;Cloud+%7C+Linux+%7C+Networking+%7C+Python;Learning+to+build+reliable+and+scalable+systems;Turning+curiosity+into+engineering+skills"
-    alt="Typing animation"
-  />
-</p>
+  <rect x="60" y="15" width="600" height="120" rx="10" fill="#0D1117" stroke="#00E5FF" stroke-opacity="0.4"/>
+  <circle cx="80" cy="32" r="4" fill="#A855F7"/>
+  <circle cx="95" cy="32" r="4" fill="#00E5FF"/>
+  <circle cx="110" cy="32" r="4" fill="#8B5CF6"/>
 
-<p align="center">
-  <a href="https://github.com/Sakshi-Void">
-    <img src="https://img.shields.io/badge/GitHub-Sakshi--Void-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/sakshi-singh-ds">
-    <img src="https://img.shields.io/badge/LinkedIn-Sakshi%20Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/Sakshi002/">
-    <img src="https://img.shields.io/badge/LeetCode-Sakshi002-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-</p>
+  <text x="80" y="65" font-family="Fira Code, Consolas, monospace" font-size="18" fill="#00E5FF" opacity="0.65" filter="url(#glow)">$ whoami</text>
+  <text x="80" y="65" font-family="Fira Code, Consolas, monospace" font-size="18" fill="#00E5FF">$ whoami</text>
 
----
+  <text x="80" y="100" font-family="Fira Code, Consolas, monospace" font-size="30" font-weight="700" fill="url(#neonGrad)" opacity="0.65" filter="url(#glow)">Hi, I'm Sakshi 👋</text>
+  <text x="80" y="100" font-family="Fira Code, Consolas, monospace" font-size="30" font-weight="700" fill="url(#neonGrad)">Hi, I'm Sakshi 👋</text>
+</svg>
 
-## 🧠 About Me
+<br/>
 
-- ⚙️ Building a strong foundation in **Computer Systems, Linux, Networking & Cloud Computing**
-- ☁️ Working with **AWS** to understand how applications are deployed, secured and operated
-- 🐧 Going beyond basic Linux commands — exploring **processes, permissions, services, networking & system troubleshooting**
-- 🐍 Using **Python** for scripting, automation, APIs and problem solving
-- 🌐 Learning how systems communicate through **DNS, HTTP/HTTPS, TCP/IP, ports & networking layers**
-- 🔧 Interested in **automation, reliability, scalability and infrastructure**
-- 🧩 Strengthening problem-solving through **Data Structures & Algorithms**
-- 🚀 Moving from simply using technology to **understanding, building and engineering the systems behind it**
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3200&pause=1200&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=90&lines=Designing+systems%2C+not+just+writing+code;Understanding+what+happens+behind+the+API;Cloud+%7C+Linux+%7C+Networking+%7C+Python;Learning+to+build+reliable+and+scalable+systems;Turning+curiosity+into+engineering+skills" alt="Typing SVG" />
 
----
+<br/>
 
-## ⚙️ Engineering Stack
+<a href="https://github.com/Sakshi-Void"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
+<a href="https://linkedin.com/in/sakshi-singh-ds"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=A855F7" /></a>
+<a href="https://leetcode.com/u/Sakshi002/"><img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=00E5FF" /></a>
+<a href="mailto:singhsakshi0430@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=A855F7" /></a>
 
-### ☁️ Cloud
+</div>
 
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/S3-569A31?style=flat&logo=amazon-s3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IAM-DD344C?style=flat&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VPC-232F3E?style=flat&logo=amazon-aws&logoColor=white"/>
-</p>
+<br/>
 
-### 🐧 Systems & Networking
+## About Me
 
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TCP%2FIP-00E5FF?style=flat"/>
-  <img src="https://img.shields.io/badge/DNS-00E5FF?style=flat"/>
-  <img src="https://img.shields.io/badge/HTTP%2FHTTPS-00E5FF?style=flat"/>
-</p>
+Building a strong foundation in **Computer Systems, Linux, Networking, and Cloud Computing** — with a focus on understanding how software actually runs, not just how it's written.
 
-### 🐍 Programming & Automation
+- Learning how applications are deployed, secured, and operated in real environments
+- Exploring processes, permissions, services, networking, logs, and system troubleshooting on Linux
+- Using Python for scripting, automation, APIs, and problem-solving
+- Interested in the systems *behind* modern software — infrastructure, reliability, and scale — more than the surface layer of using it
+- Currently sharpening data structures & algorithms alongside hands-on AWS and Linux fundamentals
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-</p>
+<br/>
 
-### 🔧 Developer Tools
+## Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
-</p>
+<table>
+<tr>
+<td valign="top" width="50%">
 
----
+**☁️ Cloud**
+<br/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/EC2-232F3E?style=flat-square&logo=amazonec2&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/S3-232F3E?style=flat-square&logo=amazons3&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/IAM-232F3E?style=flat-square&logo=amazonaws&logoColor=A855F7" />
+<img src="https://img.shields.io/badge/VPC-232F3E?style=flat-square&logo=amazonaws&logoColor=A855F7" />
 
-## 🔬 Current Engineering Focus
+**🐧 Systems & Networking**
+<br/>
+<img src="https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/Bash-0D1117?style=flat-square&logo=gnubash&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/Networking-0D1117?style=flat-square&logo=cisco&logoColor=A855F7" />
+
+</td>
+<td valign="top" width="50%">
+
+**🐍 Programming & Automation**
+<br/>
+<img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=A855F7" />
+<img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=00E5FF" />
+
+**🗄️ Data / Backend**
+<br/>
+<img src="https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=postgresql&logoColor=A855F7" />
+<img src="https://img.shields.io/badge/REST_APIs-0D1117?style=flat-square&logo=fastapi&logoColor=00E5FF" />
+
+**🔧 Developer Tools**
+<br/>
+<img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=A855F7" />
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/Postman-0D1117?style=flat-square&logo=postman&logoColor=A855F7" />
+<img src="https://img.shields.io/badge/VS_Code-0D1117?style=flat-square&logo=visualstudiocode&logoColor=00E5FF" />
+
+</td>
+</tr>
+</table>
+
+> **Exploring next:** Docker, Kubernetes, Terraform, CI/CD, AWS Lambda — not yet part of my working stack, but the direction I'm actively studying toward.
+
+<br/>
+
+## Engineering Focus
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                    CLOUD & SYSTEMS                           │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  AWS                                                         │
-│  ├── Compute        → EC2                                    │
-│  ├── Storage        → S3                                     │
-│  ├── Identity       → IAM                                    │
-│  ├── Networking     → VPC                                    │
-│  └── Monitoring     → CloudWatch                             │
-│                                                              │
-│  LINUX                                                        │
-│  ├── Processes      → ps / top / systemctl                   │
-│  ├── Permissions    → chmod / chown / users & groups          │
-│  ├── Filesystem     → paths / mounts / disk management        │
-│  ├── Networking     → ss / ping / curl / DNS                 │
-│  └── Logs           → journalctl / system logs               │
-│                                                              │
-│  PYTHON                                                       │
-│  ├── Core           → data structures / OOP                   │
-│  ├── Automation     → scripts / file operations              │
-│  ├── APIs           → requests / REST                        │
-│  └── System Tools   → subprocess / os                        │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+AWS
+├── Compute      → EC2
+├── Storage      → S3
+├── Identity     → IAM
+├── Networking   → VPC
+└── Monitoring   → CloudWatch
+
+LINUX
+├── Processes    → ps / top / systemctl
+├── Permissions  → chmod / chown
+├── Networking   → ss / ping / curl / DNS
+├── Filesystem   → paths / mounts
+└── Logs         → journalctl
+
+PYTHON
+├── Core         → Data Structures / OOP
+├── Automation   → Scripts
+├── APIs         → REST / Requests
+└── System Tools → os / subprocess
+```
+
+<br/>
+
+## Engineering Vision
+
+I don't want to merely write code — I want to understand the systems that run it.
+
+My interest sits at the intersection of **automation, reliability, and scalable infrastructure**: how services stay available under load, how manual operational work gets reduced through good tooling, and how cloud systems are secured and observed rather than just deployed.
+
+Long term, I'm working toward being someone who can reason about a system end-to-end — from the network layer to the application layer — and design solutions to operational problems, not just features. That's the engineer I'm building toward, one deliberate layer at a time.
+
+<br/>
+
+## Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🚧 Currently building...**
+
+*Project name:* `TBD`
+*Description:* A short technical description will go here once this project is underway.
+*Architecture / tech:* —
+*Problem it solves:* —
+*Links:* [GitHub](#) · Live demo (if available)
+
+</td>
+<td width="50%" valign="top">
+
+**🚧 Currently building...**
+
+*Project name:* `TBD`
+*Description:* A short technical description will go here once this project is underway.
+*Architecture / tech:* —
+*Problem it solves:* —
+*Links:* [GitHub](#) · Live demo (if available)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## Developer Activity
+
+**GitHub**
+
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sakshi-Void&show_icons=true&hide_title=true&bg_color=0D1117&title_color=A855F7&icon_color=00E5FF&text_color=c9d1d9&border_color=00E5FF&border_radius=10" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi-Void&layout=compact&hide_title=true&bg_color=0D1117&title_color=A855F7&text_color=c9d1d9&border_color=00E5FF&border_radius=10" />
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Sakshi-Void&background=0D1117&border=00E5FF&ring=00E5FF&fire=A855F7&currStreakLabel=00E5FF&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&border_radius=10" />
+</p>
+
+**LeetCode** *(separate platform — shown alongside GitHub, not merged into it)*
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/Sakshi002?theme=dark&font=JetBrains%20Mono&colors=0d1117,161b22,c9d1d9,ffffff,00E5FF,A855F7,00E5FF,A855F7" />
+</p>
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/Sakshi002?ext=heatmap&theme=dark&font=JetBrains%20Mono&colors=0d1117,161b22,c9d1d9,ffffff,00E5FF,A855F7,00E5FF,A855F7" />
+</p>
+
+<br/>
+
+## Let's Connect
+
+<p align="center">
+<a href="https://github.com/Sakshi-Void"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
+<a href="https://linkedin.com/in/sakshi-singh-ds"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=A855F7" /></a>
+<a href="https://leetcode.com/u/Sakshi002/"><img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=00E5FF" /></a>
+<a href="mailto:singhsakshi0430@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=A855F7" /></a>
+</p>
+
+<br/>
+
+<div align="center">
+
+<sub>Learn deliberately. Build for reliability. Engineer one layer at a time.</sub>
+
+</div>
