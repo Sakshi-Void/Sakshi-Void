@@ -89,7 +89,7 @@ More interested in the systems behind software than in just using it
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:FF5C8A&height=2&width=100%25"/>
 
-### 🗺️ My Vision
+### 🗺️ Core Focus
 
 ```text
 AWS
@@ -117,7 +117,7 @@ PYTHON
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:C8A2FF,100:0D1117&height=2&width=100%25"/>
 
-### 🌙 Engineering Vision
+### 🌙 My Vision
 
 I don't want to merely write code — I want to understand the systems that run it.
 
