@@ -4,7 +4,7 @@
 
 <br/><br/>
 
-<img src="https://github.com/user-attachments/assets/fcb78228-428b-4aed-b007-ab435ea75f89" width="180" height="260" style="object-fit:cover;border-radius:16px;border:3px solid #FF5C8A;"/>
+<img src="https://github.com/user-attachments/assets/195fc022-5f10-4606-949b-d5387c105afa" width="180" height="260" style="object-fit:cover;border-radius:16px;border:3px solid #FF5C8A;"/>
 
 <br/><br/>
 
@@ -168,7 +168,6 @@ NLP-powered movie recommender using a bag-of-words similarity model.
 `Python · Streamlit · NLP`
 <br/><br/>
 <a href="https://github.com/Sakshi-Void/Filmy-Dost"><img src="https://img.shields.io/badge/GitHub-1A1625?style=flat-square&logo=github&logoColor=FF5C8A"/></a>
-
 </td>
 </tr>
 </table>
