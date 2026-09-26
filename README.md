@@ -1,21 +1,14 @@
-<table width="100%">
-<tr>
-<td width="80%">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:FF5C8A,100:C8A2FF&height=220&section=header&text=Welcome%20to%20My%20Profile&fontSize=38&fontColor=FFFFFF&fontAlignY=35&desc=Hi%2C%20I%27m%20Sakshi%20%E2%80%94%20Cloud%20%7C%20Linux%20%7C%20Networking%20%7C%20Python&descAlignY=55&descSize=16&animation=fadeIn" width="100%"/>
 
-</td>
-<td width="20%" align="center">
+<br/><br/>
 
-<img src="https://github.com/user-attachments/assets/e443ab6c-7ccd-4f21-b8a5-3c2a1e083186" width="130"/>
+<img src="https://github.com/user-attachments/assets/fcb78228-428b-4aed-b007-ab435ea75f89" width="150" style="border-radius:16px;border:3px solid #FF5C8A;"/>
 
-</td>
-</tr>
-</table>
+<br/><br/>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=18&duration=2800&pause=800&color=FF5C8A&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=70&lines=Designing+systems%2C+not+just+writing+code;Understanding+what+happens+behind+the+API;Learning+to+build+reliable%2C+scalable+systems;Cloud+dreams%2C+Linux+fundamentals;Turning+curiosity+into+clean+code;Soft+skills%2C+sharp+systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=18&duration=2800&pause=800&color=FF5C8A&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=50&lines=Designing+systems%2C+not+just+writing+code;Understanding+what+happens+behind+the+API;Learning+to+build+reliable%2C+scalable+systems;Cloud+dreams%2C+Linux+fundamentals;Turning+curiosity+into+clean+code;Soft+skills%2C+sharp+systems" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -48,29 +41,31 @@ More interested in the systems behind software than in just using it
 
 ### 🪞 Tech Stack
 
-<div align="center">
-
-**☁️ Cloud**
-<br/>
-<img src="https://skillicons.dev/icons?i=aws" />
-
-**🌿 Systems & Networking**
-<br/>
-<img src="https://skillicons.dev/icons?i=linux,bash" />
-
-**🌷 Programming & Automation**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,js,ts" />
-
-**🍇 Data / Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=postgres,fastapi" />
-
-**🧸 Developer Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
-
-</div>
+<table width="100%">
+<tr>
+<td width="20%" align="left"><b>☁️ Cloud</b></td>
+<td align="left"><img src="https://skillicons.dev/icons?i=aws" height="45"/></td>
+</tr>
+<tr>
+<td align="left"><b>🌿 Systems & Networking</b></td>
+<td align="left">
+<img src="https://skillicons.dev/icons?i=linux" height="45"/>
+<img src="https://img.shields.io/badge/Bash-1A1625?style=for-the-badge&logo=gnubash&logoColor=FF5C8A" height="28"/>
+</td>
+</tr>
+<tr>
+<td align="left"><b>🌷 Programming & Automation</b></td>
+<td align="left"><img src="https://skillicons.dev/icons?i=python,js,ts" height="45"/></td>
+</tr>
+<tr>
+<td align="left"><b>🍇 Data / Backend</b></td>
+<td align="left"><img src="https://skillicons.dev/icons?i=postgres,fastapi" height="45"/></td>
+</tr>
+<tr>
+<td align="left"><b>🧸 Developer Tools</b></td>
+<td align="left"><img src="https://skillicons.dev/icons?i=git,github,postman,vscode" height="45"/></td>
+</tr>
+</table>
 
 > **Exploring next:** Docker · Kubernetes · Terraform · CI/CD · AWS Lambda — future direction, not current expertise.
 
@@ -199,7 +194,7 @@ NLP-powered movie recommender using a bag-of-words similarity model.
 <img src="https://github-profile-trophy.vercel.app/?username=Sakshi-Void&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7"/>
 </p>
 
-**LeetCode** *(separate platform, shown alongside GitHub)*
+**LeetCode**
 
 <p align="center">
 <b>Stats</b><br/>
