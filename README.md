@@ -193,20 +193,7 @@ NLP-powered movie recommender using a bag-of-words similarity model.
 **GitHub**
 
 <p align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sakshi-Void&theme=redical&bg_color=0D1117&color=FF5C8A&line=C8A2FF&point=FFFFFF&hide_border=true&area=true"/>
-</p>
-
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sakshi-Void&show_icons=true&hide_title=true&bg_color=0D1117&title_color=C8A2FF&icon_color=FF5C8A&text_color=c9d1d9&border_color=FF5C8A&border_radius=10"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi-Void&layout=compact&hide_title=true&bg_color=0D1117&title_color=C8A2FF&text_color=c9d1d9&border_color=FF5C8A&border_radius=10"/>
-</p>
-
-<p align="center">
 <img src="https://streak-stats.demolab.com?user=Sakshi-Void&background=0D1117&border=FF5C8A&ring=FF5C8A&fire=C8A2FF&currStreakLabel=FF5C8A&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&border_radius=10"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Sakshi-Void&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7"/>
 </p>
 
 **LeetCode**
