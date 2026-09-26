@@ -1,27 +1,27 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00E5FF,100:A855F7&height=220&section=header&text=Welcome%20to%20My%20Profile&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Hi%2C%20I%27m%20Sakshi%20%E2%80%94%20Cloud%20%7C%20Linux%20%7C%20Networking%20%7C%20Python&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:FF8FAB,100:C8A2FF&height=220&section=header&text=Welcome%20to%20My%20Profile&fontSize=40&fontColor=FFFFFF&fontAlignY=35&desc=Hi%2C%20I%27m%20Sakshi%20%E2%80%94%20Cloud%20%7C%20Linux%20%7C%20Networking%20%7C%20Python&descAlignY=55&descSize=17&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3200&pause=1200&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=Designing+systems%2C+not+just+writing+code;Understanding+what+happens+behind+the+API;Learning+to+build+reliable%2C+scalable+systems;Turning+curiosity+into+engineering+skills" alt="Typing SVG" />
-
-<br/><br/>
-
-<a href="https://github.com/Sakshi-Void"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
-<a href="https://linkedin.com/in/sakshi-singh-ds"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=A855F7" /></a>
-<a href="https://leetcode.com/u/Sakshi002/"><img src="https://img.shields.io/badge/LeetCode-161B22?style=for-the-badge&logo=leetcode&logoColor=00E5FF" /></a>
-<a href="mailto:singhsakshi0430@gmail.com"><img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=A855F7" /></a>
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=18&duration=3200&pause=1200&color=FF8FAB&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=Designing+systems%2C+not+just+writing+code;Understanding+what+happens+behind+the+API;Learning+to+build+reliable%2C+scalable+systems;Turning+curiosity+into+engineering+skills" alt="Typing SVG" />
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Sakshi-Void&label=Profile%20Views&color=00E5FF&style=flat-square"/>
+<a href="https://github.com/Sakshi-Void"><img src="https://img.shields.io/badge/GitHub-1A1625?style=for-the-badge&logo=github&logoColor=FF8FAB" /></a>
+<a href="https://linkedin.com/in/sakshi-singh-ds"><img src="https://img.shields.io/badge/LinkedIn-1A1625?style=for-the-badge&logo=linkedin&logoColor=C8A2FF" /></a>
+<a href="https://leetcode.com/u/Sakshi002/"><img src="https://img.shields.io/badge/LeetCode-1A1625?style=for-the-badge&logo=leetcode&logoColor=FF8FAB" /></a>
+<a href="mailto:singhsakshi0430@gmail.com"><img src="https://img.shields.io/badge/Email-1A1625?style=for-the-badge&logo=gmail&logoColor=C8A2FF" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Sakshi-Void&label=Profile%20Views&color=FF8FAB&style=flat-square"/>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00E5FF&height=3&width=100%25"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:FF8FAB&height=2&width=100%25"/>
 
-### 🧠 About Me
+### 🌸 About Me
 
 Building a strong foundation in **Computer Systems, Linux, Networking, and Cloud Computing** — focused on understanding how software actually runs, not just how it's written.
 Learning how applications are deployed, secured, and operated in real environments
@@ -31,9 +31,9 @@ More interested in the systems behind software than in just using it
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,100:0D1117&height=3&width=100%25"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C8A2FF,100:0D1117&height=2&width=100%25"/>
 
-### ⚙️ Tech Stack
+### 🪞 Tech Stack
 
 <div align="center">
 
@@ -41,19 +41,19 @@ More interested in the systems behind software than in just using it
 <br/>
 <img src="https://skillicons.dev/icons?i=aws" />
 
-**🐧 Systems & Networking**
+**🌿 Systems & Networking**
 <br/>
 <img src="https://skillicons.dev/icons?i=linux,bash" />
 
-**🐍 Programming & Automation**
+**🌷 Programming & Automation**
 <br/>
 <img src="https://skillicons.dev/icons?i=python,js,ts" />
 
-**🗄️ Data / Backend**
+**🍇 Data / Backend**
 <br/>
 <img src="https://skillicons.dev/icons?i=postgres,fastapi" />
 
-**🔧 Developer Tools**
+**🧸 Developer Tools**
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
 
@@ -63,7 +63,7 @@ More interested in the systems behind software than in just using it
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00E5FF&height=3&width=100%25"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:FF8FAB&height=2&width=100%25"/>
 
 ### 🗺️ Engineering Focus
 
@@ -91,9 +91,9 @@ PYTHON
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,100:0D1117&height=3&width=100%25"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C8A2FF,100:0D1117&height=2&width=100%25"/>
 
-### 🚀 Engineering Vision
+### 🌙 Engineering Vision
 
 I don't want to merely write code — I want to understand the systems that run it.
 
@@ -103,32 +103,59 @@ Long term, I'm working toward reasoning about systems end-to-end — network lay
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00E5FF&height=3&width=100%25"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:FF8FAB&height=2&width=100%25"/>
 
-### 💻 Projects
+### 💗 Featured Projects
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-**🚧 Currently building...**
-
-`Project name:` TBD
-`Description:` short technical description goes here once underway
-`Stack:` —
-`Problem solved:` —
-`Links:` [GitHub](#) · Live demo
+**🍳 ChefCat.AI**
+<br/>
+Fullstack AI assistant — LLM chat, PDF Q&A (RAG), live weather, web search, and voice input/output.
+<br/>
+`React · TypeScript · Tailwind · FastAPI · Groq LLaMA3 · Qdrant`
+<br/><br/>
+<a href="https://github.com/Sakshi-Void/ChefCat-AI"><img src="https://img.shields.io/badge/GitHub-1A1625?style=flat-square&logo=github&logoColor=FF8FAB"/></a>
+<a href="https://chef-cat-ai.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-1A1625?style=flat-square&logo=vercel&logoColor=C8A2FF"/></a>
 
 </td>
 <td width="50%" valign="top">
 
-**🚧 Currently building...**
+**🛋️ Ranchi Decor**
+<br/>
+Home decor e-commerce platform with secure Razorpay payment integration.
+<br/>
+`React · Vite · TypeScript · Tailwind · shadcn/ui · Razorpay`
+<br/><br/>
+<a href="https://github.com/Sakshi-Void/Ranchi_Decor"><img src="https://img.shields.io/badge/GitHub-1A1625?style=flat-square&logo=github&logoColor=FF8FAB"/></a>
+<a href="https://ranchi-decor-two.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-1A1625?style=flat-square&logo=vercel&logoColor=C8A2FF"/></a>
 
-`Project name:` TBD
-`Description:` short technical description goes here once underway
-`Stack:` —
-`Problem solved:` —
-`Links:` [GitHub](#) · Live demo
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🌸 DSkinova**
+<br/>
+Premium skincare website with a secure admin dashboard for content management.
+<br/>
+`React · Vite · Tailwind · Node.js · Express`
+<br/><br/>
+<a href="https://github.com/Sakshi-Void/Dskinova"><img src="https://img.shields.io/badge/GitHub-1A1625?style=flat-square&logo=github&logoColor=FF8FAB"/></a>
+<a href="https://dskinova-mu.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-1A1625?style=flat-square&logo=vercel&logoColor=C8A2FF"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+**🎬 Filmy-Dost**
+<br/>
+NLP-powered movie recommender using a bag-of-words similarity model.
+<br/>
+`Python · Streamlit · NLP`
+<br/><br/>
+<a href="https://github.com/Sakshi-Void/Filmy-Dost"><img src="https://img.shields.io/badge/GitHub-1A1625?style=flat-square&logo=github&logoColor=FF8FAB"/></a>
 
 </td>
 </tr>
@@ -136,60 +163,56 @@ Long term, I'm working toward reasoning about systems end-to-end — network lay
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,100:0D1117&height=3&width=100%25"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C8A2FF,100:0D1117&height=2&width=100%25"/>
 
 ### 📊 Developer Activity
 
 **GitHub**
 
 <p align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sakshi-Void&theme=react-dark&bg_color=0D1117&color=00E5FF&line=A855F7&point=FFFFFF&hide_border=true&area=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sakshi-Void&theme=redical&bg_color=0D1117&color=FF8FAB&line=C8A2FF&point=FFFFFF&hide_border=true&area=true"/>
 </p>
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sakshi-Void&show_icons=true&hide_title=true&bg_color=0D1117&title_color=A855F7&icon_color=00E5FF&text_color=c9d1d9&border_color=00E5FF&border_radius=10"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi-Void&layout=compact&hide_title=true&bg_color=0D1117&title_color=A855F7&text_color=c9d1d9&border_color=00E5FF&border_radius=10"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sakshi-Void&show_icons=true&hide_title=true&bg_color=0D1117&title_color=C8A2FF&icon_color=FF8FAB&text_color=c9d1d9&border_color=FF8FAB&border_radius=10"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi-Void&layout=compact&hide_title=true&bg_color=0D1117&title_color=C8A2FF&text_color=c9d1d9&border_color=FF8FAB&border_radius=10"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Sakshi-Void&background=0D1117&border=00E5FF&ring=00E5FF&fire=A855F7&currStreakLabel=00E5FF&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&border_radius=10"/>
+<img src="https://streak-stats.demolab.com?user=Sakshi-Void&background=0D1117&border=FF8FAB&ring=FF8FAB&fire=C8A2FF&currStreakLabel=FF8FAB&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&border_radius=10"/>
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Sakshi-Void&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7"/>
-</p>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Sakshi-Void/Sakshi-Void/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Sakshi-Void&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7"/>
 </p>
 
 **LeetCode** *(separate platform, shown alongside GitHub)*
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/Sakshi002?theme=dark&font=JetBrains%20Mono&colors=0d1117,161b22,c9d1d9,ffffff,00E5FF,A855F7,00E5FF,A855F7"/>
+<img src="https://leetcard.jacoblin.cool/Sakshi002?theme=dark&font=Poppins&colors=0d1117,1a1625,c9d1d9,ffffff,FF8FAB,C8A2FF,FF8FAB,C8A2FF"/>
 </p>
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/Sakshi002?ext=heatmap&theme=dark&font=JetBrains%20Mono&colors=0d1117,161b22,c9d1d9,ffffff,00E5FF,A855F7,00E5FF,A855F7"/>
+<img src="https://leetcard.jacoblin.cool/Sakshi002?ext=heatmap&theme=dark&font=Poppins&colors=0d1117,1a1625,c9d1d9,ffffff,FF8FAB,C8A2FF,FF8FAB,C8A2FF"/>
 </p>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00E5FF&height=3&width=100%25"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:FF8FAB&height=2&width=100%25"/>
 
 <div align="center">
 
-### 🔗 Let's Connect
+### 🌷 Let's Connect
 
-<a href="https://github.com/Sakshi-Void"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=00E5FF"/></a>
-<a href="https://linkedin.com/in/sakshi-singh-ds"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=A855F7"/></a>
-<a href="https://leetcode.com/u/Sakshi002/"><img src="https://img.shields.io/badge/LeetCode-161B22?style=for-the-badge&logo=leetcode&logoColor=00E5FF"/></a>
-<a href="mailto:singhsakshi0430@gmail.com"><img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=A855F7"/></a>
+<a href="https://github.com/Sakshi-Void"><img src="https://img.shields.io/badge/GitHub-1A1625?style=for-the-badge&logo=github&logoColor=FF8FAB"/></a>
+<a href="https://linkedin.com/in/sakshi-singh-ds"><img src="https://img.shields.io/badge/LinkedIn-1A1625?style=for-the-badge&logo=linkedin&logoColor=C8A2FF"/></a>
+<a href="https://leetcode.com/u/Sakshi002/"><img src="https://img.shields.io/badge/LeetCode-1A1625?style=for-the-badge&logo=leetcode&logoColor=FF8FAB"/></a>
+<a href="mailto:singhsakshi0430@gmail.com"><img src="https://img.shields.io/badge/Email-1A1625?style=for-the-badge&logo=gmail&logoColor=C8A2FF"/></a>
 
 <br/><br/>
 
-<sub>Learn deliberately. Build for reliability. Engineer one layer at a time.</sub>
+<sub>Learn deliberately. Build for reliability. Engineer one layer at a time. 🌸</sub>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:A855F7,100:00E5FF&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:C8A2FF,100:FF8FAB&height=100&section=footer"/>
