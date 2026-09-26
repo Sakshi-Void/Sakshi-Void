@@ -75,6 +75,18 @@ More interested in the systems behind software than in just using it
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C8A2FF,100:0D1117&height=2&width=100%25"/>
+
+### 🏅 HackerRank Badges
+
+<p align="left">
+<img src="https://img.shields.io/badge/HackerRank-Python-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+<img src="https://img.shields.io/badge/HackerRank-SQL%20(Advanced)-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+<img src="https://img.shields.io/badge/HackerRank-CSS%20(Basic)-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</p>
+
+<br/>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:FF5C8A&height=2&width=100%25"/>
 
 ### 🗺️ Engineering Focus
