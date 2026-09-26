@@ -188,7 +188,7 @@ NLP-powered movie recommender using a bag-of-words similarity model.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:C8A2FF,100:0D1117&height=2&width=100%25"/>
 
-### 📊 Developer Activity
+### 📊 Activity
 
 **GitHub**
 
