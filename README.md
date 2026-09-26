@@ -1,14 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:FF5C8A,100:C8A2FF&height=220&section=header&text=Welcome%20to%20My%20Profile&fontSize=38&fontColor=FFFFFF&fontAlignY=35&desc=Hi%2C%20I%27m%20Sakshi%20%E2%80%94%20Cloud%20%7C%20Linux%20%7C%20Networking%20%7C%20Python&descAlignY=55&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:FF5C8A,100:C8A2FF&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=38&fontColor=FFFFFF&fontAlignY=45&animation=fadeIn" width="100%"/>
 
 <br/><br/>
 
-<img src="https://github.com/user-attachments/assets/fcb78228-428b-4aed-b007-ab435ea75f89" width="150" style="border-radius:16px;border:3px solid #FF5C8A;"/>
+<img src="https://github.com/user-attachments/assets/fcb78228-428b-4aed-b007-ab435ea75f89" width="180" height="260" style="object-fit:cover;border-radius:16px;border:3px solid #FF5C8A;"/>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=18&duration=2800&pause=800&color=FF5C8A&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=50&lines=Designing+systems%2C+not+just+writing+code;Understanding+what+happens+behind+the+API;Learning+to+build+reliable%2C+scalable+systems;Cloud+dreams%2C+Linux+fundamentals;Turning+curiosity+into+clean+code;Soft+skills%2C+sharp+systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=22&duration=2200&pause=700&color=FF5C8A&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=50&lines=Hi%2C+I'm+Sakshi+%E2%9C%A8;Cloud+girlie+in+the+making+%E2%98%81%EF%B8%8F;Turning+coffee+into+code+%E2%98%95;Not+just+cute%2C+also+compiles+%F0%9F%98%8C;Soft+skills%2C+sharp+systems+%F0%9F%8C%B8" alt="Greeting Typing SVG" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=16&duration=2800&pause=800&color=C8A2FF&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=40&lines=Designing+systems%2C+not+just+writing+code;Understanding+what+happens+behind+the+API;Learning+to+build+reliable%2C+scalable+systems;Turning+curiosity+into+clean+code" alt="Focus Typing SVG" />
 
 <br/><br/>
 
@@ -197,12 +201,6 @@ NLP-powered movie recommender using a bag-of-words similarity model.
 **LeetCode**
 
 <p align="center">
-<b>Stats</b><br/>
-<img src="https://leetcard.jacoblin.cool/sakshi0437?theme=dark&font=Poppins&colors=0d1117,1a1625,c9d1d9,ffffff,FF5C8A,C8A2FF,FF5C8A,C8A2FF"/>
-</p>
-
-<p align="center">
-<b>Activity Heatmap (last 52 weeks)</b><br/>
 <img src="https://leetcard.jacoblin.cool/sakshi0437?ext=heatmap&theme=dark&font=Poppins&colors=0d1117,1a1625,c9d1d9,ffffff,FF5C8A,C8A2FF,FF5C8A,C8A2FF"/>
 </p>
 
