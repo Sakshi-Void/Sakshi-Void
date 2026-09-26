@@ -89,7 +89,7 @@ More interested in the systems behind software than in just using it
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:FF5C8A&height=2&width=100%25"/>
 
-### 🗺️ Engineering Focus
+### 🗺️ My Vision
 
 ```text
 AWS
